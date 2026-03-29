@@ -1,40 +1,52 @@
 # 👋 Hi, I’m Abhinav P Gahlot (@apgahlot)
 
-I’m a **PhD student** in **Earth and Atmospheric Sciences** at **Georgia Institute of Technology**, Atlanta, USA. My research focuses on **Geophysics**, **Seismic Imaging and Inversion**, and **Geological Carbon Storage (GCS)**, with a strong emphasis on the application of **AI/ML tools** for real-time monitoring and modeling of GCS processes.
+I am a **PhD candidate** at **Georgia Institute of Technology** working at the intersection of **computational physics, imaging, and machine learning**. My research focuses on building **multi-physics simulation and inference systems** for monitoring and modeling subsurface and energy systems.
 
 ---
 
 ## 🔍 Research Interests
 
-- **Geophysics**: Seismic Imaging, Inversion Techniques, and Data Assimilation
-- **Geological Carbon Storage (GCS)**: Monitoring CO2 plumes, Carbon Sequestration, and Predictive Modeling
-- **Machine Learning for Earth Systems**: Leveraging AI techniques such as **Generative AI**, **Neural Networks**, and **Bayesian Inference** for real-time monitoring and uncertainty quantification in GCS
-- **Data Fusion**: High-dimensional and multi-modal data fusion for informed decision-making in GCS projects
-- **Computational Geophysics**: Solving large-scale physics simulations using **HPC** (High-Performance Computing)
+- **Computational Imaging & Inverse Problems**  
+  Wave-based imaging, seismic inversion, and reconstruction from sparse and noisy observations
+
+- **Multi-Physics Simulation**  
+  Coupled modeling of flow, material properties, and wave propagation to study system behavior
+
+- **Bayesian Inference & Uncertainty Quantification**  
+  Sequential and amortized inference for high-dimensional inverse problems
+
+- **Machine Learning for Physical Systems**  
+  Generative models (flows, diffusion) and conditional learning for data assimilation
+
+- **Data Fusion**  
+  Combining spatial imaging data with time-series measurements (e.g., seismic + sensor data)
+
+- **Scientific Computing & HPC**  
+  Large-scale simulation and training pipelines in **Julia** and **Python**
 
 ---
 
 ## 🌱 Currently Learning
 
-I am currently exploring how **machine learning** techniques can be applied to enhance **monitoring of Geological Carbon Storage (GCS)**, particularly:
-- Development of **Generative AI-based digital twins** for CO2 sequestration
-- **Uncertainty quantification** and real-time **data assimilation** in GCS models
+- Developing **digital twin frameworks** for monitoring subsurface and energy storage systems  
+- Training **conditional generative models** for time-dependent data assimilation  
+- Building **modular simulation → training → inference pipelines** for scalable workflows  
 
 ---
 
 ## 💬 Collaborations & Projects
-
-I am looking to collaborate on projects related to:
-- **Field-scale modeling** of **CO2 flow** and **seismic monitoring** for GCS applications
-- **AI-driven geophysical inversion** for improved geological interpretation and monitoring
+I’m interested in problems involving:
+- **Computational imaging systems** and inverse problems  
+- **Multi-physics modeling and simulation pipelines**  
+- **Sensor/data fusion in real-world systems**  
+- **Physics + ML approaches for decision-making under uncertainty**
 
 ---
-
 ## 📫 How to Reach Me
 
 - Email: [agahlot8@gatech.edu](mailto:agahlot8@gatech.edu)
-- Alternate Email: [gahlot.abhinav@yahoo.com](mailto:gahlot.abhinav@yahoo.com)
-- LinkedIn: [Abhinav P Gahlot](https://www.linkedin.com/in/abhinavpgahlot)
+- Alternate Email: [gahlot.abhinav@yahoo.com](mailto:gahlot.abhinav@yahoo.com) 
+- LinkedIn: [Abhinav P Gahlot](https://www.linkedin.com/in/abhinavpgahlot)  
 - GitHub: [@apgahlot](https://github.com/apgahlot)
 
 ---
@@ -43,20 +55,24 @@ I am looking to collaborate on projects related to:
 
 Here are some of my repositories related to my research:
 
-- **[Generative AI for GCS Monitoring](https://github.com/slimgroup/Twin4GCS.jl)**: Repository focused on developing **Generative AI**-based digital twin for CO2 sequestration and monitoring.
-- **[Seismic Imaging & Inversion](https://github.com/apgahlot/Nonlinear-JRM)**: Julia implementations for large-scale seismic inversion and imaging using joint recovery model.
-- **[Docker setup for seismic modeling and imaging](https://github.com/apgahlot/ccs8803-env_JUDI)**: Docker environment for seismic modeling and imaging for EAS 8803 Seismic Monitoring CO2 Storage course.
+- **[Twin4GCS.jl](https://github.com/slimgroup/Twin4GCS.jl)**  
+  Digital twin framework for subsurface monitoring using generative models and physics-based simulation  
+
+- **[Nonlinear-JRM](https://github.com/apgahlot/Nonlinear-JRM)**  
+  Large-scale seismic imaging and inversion using joint recovery methods  
+
+- **[ccs8803-env_JUDI](https://github.com/apgahlot/ccs8803-env_JUDI)**  
+  Reproducible environment for seismic modeling and imaging workflows  
+
+---
 
 <!--
 - **[Bayesian Inference in Geophysics](#)**: Algorithms for Bayesian inversion and uncertainty quantification in geophysical data.
 -->
 ---
 
-## ⚡ Fun Fact
+## ⚡ Notes
 
-In addition to my research, I enjoy working on cutting-edge **machine learning algorithms**, contributing to **open-source projects**, and exploring ways to apply AI techniques to **real-world environmental challenges**.
+My work sits between **physics-based modeling and data-driven systems**, with an emphasis on building **scalable, reproducible workflows** that operate under real-world constraints.
 
 ---
-
-Feel free to explore my repositories and reach out if you'd like to discuss collaboration opportunities, exchange ideas, or learn more about my work!
-
